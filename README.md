@@ -1,1 +1,1 @@
-# How-to-overcome-Flutter-DataTable-SfDataGrid-scrolling-issue-using-mouse-pointer-in-web-and-deskto
+# How-to-perform-vertical-or-horizontal-scrolling-in-Flutter-DataTable-SfDataGrid-by-mouse-dragging
